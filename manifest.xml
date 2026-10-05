@@ -6,8 +6,8 @@
   <DefaultLocale>ar-SA</DefaultLocale>
   <DisplayName DefaultValue="راسم الدوال"/>
   <Description DefaultValue="ارسم الدوال والرسومات الرياضية بالعربية وأدرجها في المستند بمقاسها الصحيح - أ. رشدي سيد"/>
-  <IconUrl DefaultValue="https://roshdy1221985.github.io/rasem-dawal/assets/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://roshdy1221985.github.io/rasem-dawal/assets/icon-64.png"/>
+  <IconUrl DefaultValue="https://roshdy1221985.github.io/rasem-dawal/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://roshdy1221985.github.io/rasem-dawal/icon-64.png"/>
   <SupportUrl DefaultValue="https://math-empire22.onrender.com"/>
   <AppDomains>
     <AppDomain>https://wa.me</AppDomain>
@@ -63,9 +63,9 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16" DefaultValue="https://roshdy1221985.github.io/rasem-dawal/assets/icon-16.png"/>
-        <bt:Image id="Icon.32" DefaultValue="https://roshdy1221985.github.io/rasem-dawal/assets/icon-32.png"/>
-        <bt:Image id="Icon.80" DefaultValue="https://roshdy1221985.github.io/rasem-dawal/assets/icon-80.png"/>
+        <bt:Image id="Icon.16" DefaultValue="https://roshdy1221985.github.io/rasem-dawal/icon-16.png"/>
+        <bt:Image id="Icon.32" DefaultValue="https://roshdy1221985.github.io/rasem-dawal/icon-32.png"/>
+        <bt:Image id="Icon.80" DefaultValue="https://roshdy1221985.github.io/rasem-dawal/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Pane.Url" DefaultValue="https://roshdy1221985.github.io/rasem-dawal/index.html?office=1"/>
