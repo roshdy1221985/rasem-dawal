@@ -17,7 +17,7 @@
     <Host Name="Document"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://roshdy1221985.github.io/rasem-dawal/index.html?office=1"/>
+    <SourceLocation DefaultValue="https://roshdy1221985.github.io/rasem-dawal/rasem-word.html?office=1"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
@@ -68,7 +68,7 @@
         <bt:Image id="Icon.80" DefaultValue="https://roshdy1221985.github.io/rasem-dawal/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Pane.Url" DefaultValue="https://roshdy1221985.github.io/rasem-dawal/index.html?office=1"/>
+        <bt:Url id="Pane.Url" DefaultValue="https://roshdy1221985.github.io/rasem-dawal/rasem-word.html?office=1"/>
         <bt:Url id="GS.Url" DefaultValue="https://math-empire22.onrender.com"/>
       </bt:Urls>
       <bt:ShortStrings>
